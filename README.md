@@ -10,7 +10,7 @@
 
 ## 📖 项目简介 (Project Description)
 
-**Facebook Ads Infrastructure Matrix** 是面向全球跨境电商卖家、Media Buyer 团队、代理商及流量主的一站式 FB 广告资产供应平台。
+**PrimePeng Facebook Ads Infrastructure Matrix** 是面向全球跨境电商卖家、Media Buyer 团队、代理商及流量主的一站式 FB 广告资产供应平台。
 
 在海外广告投放中，**资产稳定性直接决定流量与ROI**。我们依托自建底层养号链路与海外本土资源，提供从基础建企（BM/像素）、粉丝矩阵（百粉/千粉/万粉/直播户）到高阶跑量账户（海外三不限/BM2500/加白认证户）的全全链路基础设施保障。
 
