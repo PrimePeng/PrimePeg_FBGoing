@@ -95,7 +95,7 @@
 * 📢 **Telegram 官方频道**: [https://t.me/PrimePeng_fb](https://t.me/PrimePeng_fb) *(实时更新现货库存与客户反馈)*
 * 📲 **微信 / WeChat**: `PrimePeng_fb`
 * 📮 **Skype / Email**: `fb@primepeng.com`
-* 🌐 **官方网址**: `WWW.PrimePeng.COM`
+* 🌐 **官方网址**: [访问官方网站](https://www.primepeng.com)
 
 ---
 *Disclaimer: This repository is for service promotion and resource matching for digital marketers.*
